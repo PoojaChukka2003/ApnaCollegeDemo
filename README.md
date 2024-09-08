@@ -1,2 +1,3 @@
 # ApnaCollegeDemo
-My first practice repo
+My first practice repo.
+Author - Pooja Chukka
