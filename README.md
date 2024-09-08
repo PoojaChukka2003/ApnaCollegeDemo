@@ -1,4 +1,4 @@
 # ApnaCollegeDemo
 My first practice repo.
 <br>
-Author - Pooja Chukka
+Author - Pooja Pranathi
